@@ -1,0 +1,69 @@
+.owl-carousel .owl-nav.disabled {
+    display: block !important;
+}
+.owl-theme .owl-dots .owl-dot{
+    display: none !important;
+}
+.custom-carousel-text{
+    padding-bottom: 10px;
+}
+.custom-carousel-text .badge{
+    font-size: 11px;
+    padding: 7px;
+    border-radius: 20%;
+    background-color: #ff6d24;
+}
+.custom-carousel-price{
+    font-size: 13px;
+    color: #363636;
+}
+.carousel-off-price{
+    float: left;
+    font-size: 11px;
+    color: gray;
+}
+.custom-carousel-img{
+    padding: 25px;
+}
+.owl-carousel .owl-nav button.owl-prev span{
+     position: absolute;
+    right: 2px;
+    top: 40%;
+    font-size: 25px;
+    background-color: #f2f2f2;
+    padding: 0px 15px;
+    border-radius: 100%;
+    border: 1px solid #cdcdcd;
+}
+.owl-carousel .owl-nav button.owl-next span{
+      position: absolute;
+    left: 2px;
+    top: 40%;
+    font-size: 25px;
+    background-color: #f2f2f2;
+    padding: 0px 15px;
+    border-radius: 100%;
+    border: 1px solid #cdcdcd;
+}
+.owl-carousel .owl-nav button.owl-prev span:hover,
+.owl-carousel .owl-nav button.owl-next span:hover{
+    color: #4e4e4e;
+}
+.carousel-title p{
+font-size: 15px;
+    color: #171717;
+}
+.carousel-title{
+    margin-bottom: 15px;
+}
+.owl-carousel-custom{
+    margin: 15px 0;
+}
+.custom-bg-carousel{
+    background-color: white;
+}
+.custom-carousel2-img{
+    width: 100px;
+    height: 170px;
+}
+

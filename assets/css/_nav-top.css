@@ -1,0 +1,129 @@
+.nav-top-bg{
+  z-index: 3;
+  top: 0;
+}
+.nav-right p {
+  font-size: 13px;
+}
+.nav-left nav a {
+  font-size: 13px;
+  border-left: 1px solid #545454 !important;
+}
+.input-search-box::placeholder{
+    font-size: 11px;
+}
+.input-search-box:focus{
+  box-shadow: none !important;
+  border: 1px solid orange !important;
+}
+.search-box {
+  border-radius: 3px;
+  background-color: #ff6d24;
+}
+.search-box button {
+  font-size: 12px;
+}
+.search-box button:focus{
+  box-shadow: none !important;
+}
+.search-box button:hover {
+  background-color: orangered;
+}
+.custom-group button {
+  font-size: 12px;
+}
+.custom-group button::after {
+  vertical-align: 0;
+}
+.shopping {
+  margin-right: 50px;
+}
+.shopping button {
+  background-color: transparent;
+}
+.shopping button span {
+  font-size: 13px;
+}
+.shopping button i {
+  font-size: 14px;
+  vertical-align: -2px;
+}
+.shopping button::after {
+  vertical-align: 1px;
+  color: #4e4e4e;
+}
+.shopping button:focus {
+  border-radius: 0 !important;
+}
+.shopping-items {
+  width: 220px;
+}
+.shopping-items a {
+  padding: 0 9px;
+}
+.shopping-items a img {
+  width: 50px;
+  height: 64px;
+}
+.shopping-items a li {
+  font-size: 11px;
+}
+.custom-dropdown-nav {
+  width: 300px !important;
+}
+.home a {
+  margin-right: 10px;
+}
+.custome-navbar-ul li a {
+  font-size: 12px;
+  color: #4e4e4e;
+}
+.custome-navbar-ul li {
+  position: unset;
+}
+.custom-off a {
+  vertical-align: -5px;
+  font-size: 16px;
+  margin-right: 20px;
+}
+.food-img {
+  width: 250px;
+  height: 200px;
+  left: 0;
+  bottom: 0;
+  margin: 0px 25px;
+}
+.custome-navbar-ul .dropdown-menu {
+  height: 190px;
+}
+.food li a{
+    transition: .3s ease;
+}
+.food li i {
+  font-size: 12px;
+  margin-left: 4px;
+  vertical-align: -2px;
+  color: darkorange;
+}
+.food li a:hover{
+    margin-right: 3px;
+}
+@media screen and (max-width: 768px) {
+    .shopping button{
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .burger-menu{
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .food-dropdown-menu{
+        height: 100% !important;
+    }
+}
+.custom-toggler{
+  background-image: url("../img/menu-icon.svg") !important;
+  font-size: 13px;
+}

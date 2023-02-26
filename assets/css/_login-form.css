@@ -1,0 +1,30 @@
+.login-form input{
+    border-bottom: 1px solid #efefef !important;
+    border-radius: 0;
+}
+.login-form input:focus {
+    box-shadow: none;
+    border: 1px solid #ef4056 !important;
+    border-radius: 10px;
+}
+.login-form input::placeholder{
+    font-size: 12px;
+    color: gray;
+}
+.login-form label{
+    font-size: 14px;
+}
+.login-form input[type=checkbox]{
+    margin: 6px 0;
+}
+.custom-login-footer a{
+    color: #9d152d;
+    font-size: 14px;
+}
+.login-form button{
+    background-color: #ef4056;
+    color: white;
+}
+.login-form button:hover{
+    color: #efefef;
+}

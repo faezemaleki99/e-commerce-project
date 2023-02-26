@@ -1,0 +1,56 @@
+.custom-nav-tabs li a {
+    font-size: 14px;
+    color: #333333;
+}
+.custom-nav-tabs li .nav-link.active{
+    margin: 0;
+    color: #f75c03;
+}
+.custom-nav-tabs,.custom-nav-tabs li a.show{
+    border-bottom: 1px solid #efefef !important;
+}
+.custom-nav-tabs .nav-item .nav-link, .nav-tabs .nav-link.active{
+    border: 0;
+}
+.tab-pane-img img{
+    width: 180px;
+    height: 180px;
+}
+.tab-pane-img{
+    height: 180px;
+    overflow: hidden;
+}
+.tab-pane-img .img-first , .tab-pane-img .img-second{
+    transition: all .5s ease;
+}
+.tab-pane-img:hover .img-first , .tab-pane-img:hover .img-second{
+    transform: translateY(-180px);
+}
+.custom-tab{
+    padding: 30px;
+}
+.tab-descriptions .tab-title a{
+    color: #2d2d2d;
+    font-size: 15px;
+}
+.tab-descriptions .tab-rate-star{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.tab-descriptions .tab-rate-star i{
+    color: gold;
+    font-size: 13px;
+}
+.tab-descriptions .tab-price s{
+    color: red;
+    margin-left: 5px;
+    font-size: 12px;
+}
+.tab-descriptions .tab-price span{
+    font-size: 13px;
+    color: #3f3f3f;
+}
+.custom-tab{
+    border: 1px solid #efefef;
+    border-top: 0;
+}

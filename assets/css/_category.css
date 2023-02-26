@@ -1,0 +1,11 @@
+.custom-font-cat>div p{
+    font-size: 12px;
+    color: black;
+}
+.cat-title{
+    margin-bottom: 25px;
+}
+.cat-title p{
+    font-size: 20px !important;
+    color: #2f2f2f;
+}

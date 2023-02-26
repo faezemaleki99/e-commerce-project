@@ -1,0 +1,57 @@
+@import "_nav-top.css";
+@import "_slider.css";
+@import "_shipping.css";
+@import "_category.css";
+@import "_tab.css";
+@import "_carousel.css";
+@import "_footer.css";
+@import "_banner.css";
+@import "_login-form.css";
+@import "_single-product.css";
+@font-face {
+  font-family: vazir;
+  src: url(../fonts/Vazir-Medium.ttf) format(ttf);
+  src: url(../fonts/Vazir-Medium.eot) format(eot);
+  src: url(../fonts/Vazir-Medium.woff) format(woff);
+  src: url(../fonts/Vazir-Medium.woff2) format(woff2);
+  font-style: normal;
+  font-weight: lighter;
+}
+*,body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: vazir;
+  direction: rtl;
+}
+html{
+  overflow-x: hidden;
+}
+a {
+  text-decoration: none;
+}
+li,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+p{
+  margin: 0 !important;
+}
+.wrapper-y{
+  margin-top: 120px !important;
+}
+.modal-backdrop{
+  z-index: 1 !important;
+}
+/* @media(min-width: 1200px){
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl{
+    max-width: 1340px !important;
+  }
+} */

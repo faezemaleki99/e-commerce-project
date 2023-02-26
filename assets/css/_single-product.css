@@ -1,0 +1,145 @@
+.product-breadcrumb1 li a {
+  font-size: 14px;
+  color: gray;
+}
+
+.product-breadcrumb2 li a {
+  font-size: 13px;
+}
+.product-title {
+  font-size: 11px;
+  color: gray;
+}
+.product-title2 {
+  font-size: 12px;
+}
+.p-rate i {
+  color: gold;
+}
+.p-property li a {
+  font-size: 13px;
+}
+.p-media {
+  line-height: 3;
+}
+.p-media i {
+  font-size: 23px;
+}
+.p-property i {
+  font-size: 4px;
+  margin-left: 5px;
+  color: #a3a3a3;
+}
+.tab-pane-intro p {
+  font-size: 14px;
+  line-height: 2;
+  padding: 20px;
+}
+.tab-pane-intro h5:first-child {
+  margin: 0px;
+  margin-top: 15px;
+  margin-right: 20px;
+  border-bottom: 3px solid #f8366c;
+  display: inline-block;
+  padding-bottom: 5px;
+  font-size: 14px;
+}
+.pane-property {
+  margin: 20px;
+  font-size: 14px;
+}
+.key {
+  flex: 0 0 20%;
+  color: gray;
+}
+.value {
+  flex: 0 0 70%;
+  border-bottom: 1px solid #efefef;
+  padding-bottom: 12px;
+}
+.tab-pane-intro ul li{
+    margin-bottom: 20px;
+}
+.custom-nav-tabs li a{
+ color: #535252;
+}
+.comment-right-side{
+   padding-left: 50px !important;
+}
+.comment-left-side{
+  padding-right: 50px !important;
+}
+.comment-icon span{
+ font-size: 12px;
+    color: #474646;
+    
+}
+.comment-icon i{
+ color: gold;
+    font-size: 13px;
+}
+.custom-progress-bar span{
+font-size: 13px;
+    color: #363535;
+}   
+.custom-progress-bar .progress{
+    border-radius: 10px;
+}
+.custom-progress-bar .progress-bar{
+ background-color: #46b7f3;
+}
+.comment-botton-title{
+font-size: 12px;
+}
+.comment-date{
+font-size: 10px;
+    color: gray;
+    margin-right: 15px;
+}
+.comment-user{
+font-size: 10px;
+    margin-right: 20px;
+} 
+.custom-comment{
+    font-size: 14px;
+    color: #3f3e3e;
+} 
+.comment-icon2 i{
+color: gray;
+    margin-left: 10px;
+    font-size: 13px;
+}
+.comment-icon2 span{
+font-size: 12px;
+}     
+.comment-reactions{
+    float: left;
+    margin: 8px 0;
+}
+.comment-reactions span{
+font-size: 11px;
+    color: #363636;
+}
+.question-button span{
+font-size: 13px;
+    color: #414141;
+}
+.custom-media i{
+color: #3c88ed;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.media-title{
+   font-size: 14px;
+    color: #545353;
+}
+.custom-media-body{
+ margin: 30px 5px;
+    font-size: 14px; 
+}
+.q-right-side{
+    padding-left: 50px !important;
+}      
+.q-left-side{
+    padding-right: 50px !important;
+}
